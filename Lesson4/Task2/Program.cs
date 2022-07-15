@@ -5,7 +5,14 @@ int y = Convert.ToInt32(Console.ReadLine());
 
 if (x > y)
 {
-    Console.WriteLine("Наибольшее число: " + x);
+    Console.WriteLine("Наибольшее число: " + x + ", Наименьшее число: " + y);
 }
 else
-    Console.WriteLine("Наибольшее число: " + y);
+    if (x < y)
+    {
+        Console.WriteLine("Наибольшее число: " + y + ", Наименьшее число: " + x);
+    }
+    else
+    {
+        Console.WriteLine("Числа равны");
+    }
