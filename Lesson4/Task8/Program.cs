@@ -1,6 +1,6 @@
 ﻿Console.Write("Введите число N: ");
 int N = Convert.ToInt32(Console.ReadLine());
-int M = 1;
+int M = 1; //Число, от которого идет просмотр
 
 if (M % 2 == 0)
 {
