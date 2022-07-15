@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Write("Введите число N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+int M = 1; //Число, от которого идет просмотр
+
+if (M % 2 == 0)
+{
+    M = 1;
+}
+else
+{
+    M = M + 1;
+}
+
+while (M <= N)
+{
+    Console.Write(M + " ");
+    M = M + 2;
+}
+
