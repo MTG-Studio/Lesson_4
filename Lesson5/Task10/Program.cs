@@ -4,7 +4,7 @@
 // 918 -> 1
 
 Console.Write("Введите трехзначное число: ");
-int x = Convert.ToInt32(Console.ReadLine());
+int x = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
 int a;
 
