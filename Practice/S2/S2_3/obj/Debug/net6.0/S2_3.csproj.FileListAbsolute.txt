@@ -1,0 +1,15 @@
+D:\GB\Lesson4\Practice\S2\S2_3\bin\Debug\net6.0\S2_3.exe
+D:\GB\Lesson4\Practice\S2\S2_3\bin\Debug\net6.0\S2_3.deps.json
+D:\GB\Lesson4\Practice\S2\S2_3\bin\Debug\net6.0\S2_3.runtimeconfig.json
+D:\GB\Lesson4\Practice\S2\S2_3\bin\Debug\net6.0\S2_3.dll
+D:\GB\Lesson4\Practice\S2\S2_3\bin\Debug\net6.0\S2_3.pdb
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.csproj.AssemblyReference.cache
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.AssemblyInfoInputs.cache
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.AssemblyInfo.cs
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.csproj.CoreCompileInputs.cache
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.dll
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\refint\S2_3.dll
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.pdb
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\S2_3.genruntimeconfig.cache
+D:\GB\Lesson4\Practice\S2\S2_3\obj\Debug\net6.0\ref\S2_3.dll

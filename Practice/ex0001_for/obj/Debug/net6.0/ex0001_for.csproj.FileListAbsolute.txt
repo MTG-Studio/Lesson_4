@@ -1,0 +1,15 @@
+D:\GB\Lesson4\Practice\ex0001_for\bin\Debug\net6.0\ex0001_for.exe
+D:\GB\Lesson4\Practice\ex0001_for\bin\Debug\net6.0\ex0001_for.deps.json
+D:\GB\Lesson4\Practice\ex0001_for\bin\Debug\net6.0\ex0001_for.runtimeconfig.json
+D:\GB\Lesson4\Practice\ex0001_for\bin\Debug\net6.0\ex0001_for.dll
+D:\GB\Lesson4\Practice\ex0001_for\bin\Debug\net6.0\ex0001_for.pdb
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.csproj.AssemblyReference.cache
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.AssemblyInfoInputs.cache
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.AssemblyInfo.cs
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.csproj.CoreCompileInputs.cache
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.dll
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\refint\ex0001_for.dll
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.pdb
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ex0001_for.genruntimeconfig.cache
+D:\GB\Lesson4\Practice\ex0001_for\obj\Debug\net6.0\ref\ex0001_for.dll

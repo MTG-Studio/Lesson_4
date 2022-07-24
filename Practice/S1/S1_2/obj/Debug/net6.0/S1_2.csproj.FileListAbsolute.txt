@@ -1,0 +1,15 @@
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.csproj.AssemblyReference.cache
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.AssemblyInfoInputs.cache
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.AssemblyInfo.cs
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.csproj.CoreCompileInputs.cache
+D:\GB\Lesson4\Practice\S1_2\bin\Debug\net6.0\S1_2.exe
+D:\GB\Lesson4\Practice\S1_2\bin\Debug\net6.0\S1_2.deps.json
+D:\GB\Lesson4\Practice\S1_2\bin\Debug\net6.0\S1_2.runtimeconfig.json
+D:\GB\Lesson4\Practice\S1_2\bin\Debug\net6.0\S1_2.dll
+D:\GB\Lesson4\Practice\S1_2\bin\Debug\net6.0\S1_2.pdb
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.dll
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\refint\S1_2.dll
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.pdb
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\S1_2.genruntimeconfig.cache
+D:\GB\Lesson4\Practice\S1_2\obj\Debug\net6.0\ref\S1_2.dll
