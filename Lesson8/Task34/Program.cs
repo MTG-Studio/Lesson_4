@@ -2,23 +2,21 @@
 // Напишите программу, которая покажет количество чётных чисел в массиве.
 // [345, 897, 568, 234] -> 2
 
-string GetRandomArray()
+void GetEvenQuantity(int[] arr, int quan)
 {
-    Console.Write("Введите количество элементов массива: ");
-    int q = Convert.ToInt32(Console.ReadLine());
-    int[] arr = new int[q];
-    Random rand = new Random();
-    for(int i = 0; i < q; i++)
-        arr[i] = rand.Next(100, 999);
+    int evenQuan = 0;
+    for (int i = 0; i < quan; i++)
+        if (arr[i] % 2 == 0)
+            evenQuan++;
+    Console.WriteLine($"Количество четных чисел в массиве {evenQuan}");
+}
 
-    Console.WriteLine("[{0}]", string.Join(", ", arr));
-    return string.Join(", ", arr);
-}
-void GetEven()
-{
-    int q = GetRandomArray().Length;
-    for(int i = 0; i < q; i++)
-        
-    Console.WriteLine(GetRandomArray());
-}
-GetEven();
+Console.Write("Введите количество элементов массива: ");
+int quantity = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[quantity];
+Random rand = new Random();
+for (int i = 0; i < quantity; i++)
+    array[i] = rand.Next(100, 1000);
+Console.WriteLine("[{0}]", string.Join(", ", array));
+
+GetEvenQuantity(array, quantity);
