@@ -1,0 +1,15 @@
+D:\GB\Lesson4\lesson10\Task52plus\bin\Debug\net6.0\Task52plus.exe
+D:\GB\Lesson4\lesson10\Task52plus\bin\Debug\net6.0\Task52plus.deps.json
+D:\GB\Lesson4\lesson10\Task52plus\bin\Debug\net6.0\Task52plus.runtimeconfig.json
+D:\GB\Lesson4\lesson10\Task52plus\bin\Debug\net6.0\Task52plus.dll
+D:\GB\Lesson4\lesson10\Task52plus\bin\Debug\net6.0\Task52plus.pdb
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.csproj.AssemblyReference.cache
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.AssemblyInfoInputs.cache
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.AssemblyInfo.cs
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.csproj.CoreCompileInputs.cache
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.dll
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\refint\Task52plus.dll
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.pdb
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\Task52plus.genruntimeconfig.cache
+D:\GB\Lesson4\lesson10\Task52plus\obj\Debug\net6.0\ref\Task52plus.dll

@@ -1,0 +1,15 @@
+D:\GB\Lesson4\lesson10\Task50\bin\Debug\net6.0\Task50.exe
+D:\GB\Lesson4\lesson10\Task50\bin\Debug\net6.0\Task50.deps.json
+D:\GB\Lesson4\lesson10\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+D:\GB\Lesson4\lesson10\Task50\bin\Debug\net6.0\Task50.dll
+D:\GB\Lesson4\lesson10\Task50\bin\Debug\net6.0\Task50.pdb
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.dll
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\refint\Task50.dll
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.pdb
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+D:\GB\Lesson4\lesson10\Task50\obj\Debug\net6.0\ref\Task50.dll
