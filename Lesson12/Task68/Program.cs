@@ -19,4 +19,4 @@ int Akkerman(int m, int n)
 
 InputNumbers(out int numberM, out int numberN);
 int result = Akkerman(numberM, numberN);
-Console.WriteLine(result);
+Console.WriteLine($"A(m,n) = {result}");
