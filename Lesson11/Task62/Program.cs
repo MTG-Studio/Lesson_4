@@ -30,6 +30,7 @@ int[,] GetMatrix(int[,] array)
     return array;
 }
 
+
 void PrintMatrix(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
